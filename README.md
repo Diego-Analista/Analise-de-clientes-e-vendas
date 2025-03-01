@@ -5,6 +5,8 @@ Como podemos observar nos gráficos abaixo, a empresa realizou 55,8 mil vendas, 
 <div align="center">
   <img src="https://i.ibb.co/HymdNDY/grafico1-page-0001.jpg" alt="grafico1-page-0001" border="0">
 
-no Perfil de clientes a empresa captou cerca de 17 mil clientes, conquistando uma renda média de 8,2 mil por cliente, entre eles os que mais se destacam são os clientes com renda igual ou acima de 10.000 reais. A faixa étaria é relativamente homogénea variando entre 18 a 89 anos. Estes clientes estão em todo o país, no entanto os estados que mais se destacam são São Paulo (8.385 clientes) e Rio de Janeiro (5.173 clientes).
+  ###
+  
+<p align="left">No Perfil de clientes a empresa captou cerca de 17 mil clientes, conquistando uma renda média de 8,2 mil por cliente, entre eles os que mais se destacam são os clientes com renda igual ou acima de 10.000 reais. A faixa étaria é relativamente homogénea variando entre 18 a 89 anos. Estes clientes estão em todo o país, no entanto os estados que mais se destacam são São Paulo (8.385 clientes) e Rio de Janeiro (5.173 clientes).</p>
 <div align="center">
   <img src="https://i.ibb.co/BV0n377w/gr-fico2-page-0001.jpg" alt="gr-fico2-page-0001" border="0">
